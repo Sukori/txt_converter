@@ -7,7 +7,7 @@
 - .tsv to .json
 - reverse
 - .md to .html (might be limited. Take MKDOCS as reference)
-- reverse (might be impossible due to too many markups. How to convert <aside>, <nav>, <div>, ... ???)
+- reverse (might be impossible due to too many markups. How to convert `<aside>`, `<nav>`, `<div>`, ... ???)
 - .csv to .xlsx (not open source. can I achieve it?)
 - reverse
 - .csv to .ods
@@ -35,7 +35,7 @@ This implies:
 		- if not, generate it
 	- file exists: check if the given flag matches the actual file extension
 	- file exists: do we overwrite or only append? (not clever for html, or table headers)
-- if output not specified, generate <input filename>.<output extension>
+- if output not specified, generate `<input filename>.<output extension>`
 	- If already exist, overwrite and pebcak -> I like that
 - to handle errors:
 	- wrong flags
@@ -56,7 +56,7 @@ This implies:
 - to check if the file extension is supported
 - to check if output extension flag exists
 - to check if conversion is supported
-- to generate <input filename>.newextension and write
+- to generate `<input filename>.<newextension>` and write
 	- if already exists, pebcak -> I like that
 - to handle errors:
 	- wrong flags
