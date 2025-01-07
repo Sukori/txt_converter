@@ -7,7 +7,7 @@ HEADDIR	=	header/
 HEAD	=	txt_convert.h
 
 SRCDIR	=	src/
-SOURCES	=	main
+SOURCES	=	txt_convert
 SRC		=	$(addprefix $(SRCDIR), $(addsuffix .c, $(SOURCES)))
 
 OBJDIR	=	obj/
