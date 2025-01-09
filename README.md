@@ -4,8 +4,8 @@ A personal project to convert various text files.
 
 ## Currently working on
 
-- [ ] define possible conversions
-- [ ] define command format
+- [x] define possible conversions
+- [x] define command format
 - [ ] parse input filename
 - [ ] parse output filename
 - [ ] if no output name, generate one
@@ -13,7 +13,9 @@ A personal project to convert various text files.
 - [ ] first possible conversion
 `.csv to .json`
 - [ ] parse the .csv file
+- [ ] has headers?
 - [ ] write as .json
+- [ ] handle UTF-8, ISO-8859-1, UTF-16
 
 ## Supported
 
