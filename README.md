@@ -16,6 +16,7 @@ A personal project to convert various text files.
 - [ ] has headers?
 - [ ] write as .json
 - [ ] handle UTF-8, ISO-8859-1, UTF-16
+- [ ] man page
 
 ## Supported
 

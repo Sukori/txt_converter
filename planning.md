@@ -21,6 +21,7 @@
 - .odt to .docx (probably not as easy as it looks)
 - reverse
 - .csv to any char separated values -> good challenge, but what file extension? Super annoying command to parse. Stick to standards and "have fun" later.
+- man page
 
 ## Command format
 `tcvrt [input file].<extension> [output extension]`
